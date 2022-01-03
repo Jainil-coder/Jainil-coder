@@ -27,10 +27,6 @@
 
 <p>
     <img alt="C" src="https://img.shields.io/badge/C-03599C?logo=c&logoColor=white">
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white">
-    <img alt="Java" src="https://img.shields.io/badge/Java-B7472A?logo=java&logoColor=white">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E">
-    <img alt="Julia" src="https://img.shields.io/badge/Julia-E4405F?logo=julia&logoColor=white">
     <img alt="Python" src="https://img.shields.io/badge/Python-5391FE?logo=python&logoColor=white">
     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </p>
@@ -81,10 +77,6 @@
     <img alt="Windows terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white">
 </p>
 
-<div>
- <img width="91%" src="https://activity-graph.herokuapp.com/graph?username=PrakashAnalyst&theme=github&area=true">
-</div>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainil-coder&show_icons=true&locale=en" alt="jainil-coder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainil-coder&show_icons=true&locale=en&theme=radical" alt="jainil-coder" /></p>
 
