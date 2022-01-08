@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/jainilshah24/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/jainil_2401_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href=https://t.me/jainilshah"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://prakashanalyst.github.io/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>
 </p>
  
 <h2 align="left">🚀 Languages and Tools :</h2>
@@ -43,7 +43,6 @@
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?logo=Keras&logoColor=white">
     <img alt="Tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white">
     <img alt="Flask" src="https://img.shields.io/badge/Flask-grey?logo=flask&logoColor=white">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white">
 </p>
 
 ### 🗄️ Databases and cloud hosting
