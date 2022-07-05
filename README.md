@@ -9,7 +9,9 @@
 
 - 📫 How to reach me: **jainilshah.242001@gmail.com**
 
-- ⚡ Fun fact: **I love to write**
+- 🥇 Achievement: **4 bronze medals at Kaggle**
+
+- ⚡ Participation: **Participated at Data Science World Championship by Kaggle and z by HP**
 
 <h2 align="left">📱 Connect with Me :</h2>
 
