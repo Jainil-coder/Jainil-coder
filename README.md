@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jainil Shah</h1>
-<h3 align="center">Data Science and Machine Learning Engineer with experience of 3 Internships of Machine Learning and Data Science. Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence. Looking forward with more opportunities for Industrial experience.</h3>
+<h3 align="center">Data Science and Machine Learning Engineer with experience of 3 Internships in Machine Learning and Data Science. Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence. Looking forward with more opportunities for Industrial experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jainil-coder" /> </p>
 
