@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jainil-coder" /> </p>
 
-- 🔭 I’m currently working on **Data Science Projects**
-
-- 🌱 I’m currently learning: **Deep Lerning**
+- 🌱 I’m currently learning: **MLOps & AWS**
 
 - 📫 How to reach me: **jainilshah.242001@gmail.com**
 
 - 🥇 Achievement: **4 bronze medals at Kaggle**
 
-- ⚡ Participation: **Participated at Data Science World Championship by Kaggle and z by HP**
+- ⚡ Participation: **Participated in Data Science World Championship by Kaggle and Z by HP**
 
 <h2 align="left">📱 Connect with Me :</h2>
 
@@ -70,7 +68,6 @@
     <img alt="Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white">
     <img alt="PowerBI" src="https://img.shields.io/badge/Microsoft_PowerBI-F2C811?logo=Power%20BI&logoColor=white">
     <img alt="Pycharm" src="https://img.shields.io/badge/PyCharm-000000?logo=Pycharm&logoColor=white">
-    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white">
     <img alt="Sublime text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?logo=sublime-text&logoColor=white">
     <img alt="Tableau" src="https://img.shields.io/badge/Tableau-005571?logo=Tableau&logoColor=white">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
