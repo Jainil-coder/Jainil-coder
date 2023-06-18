@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jainil-coder" /> </p>
 
-- 🌱 I’m currently learning: **MLOps & AWS**
+- 🌱 I’m currently learning: **AWS**
 
 - 📫 How to reach me: **jainilshah.242001@gmail.com**
 
-- 🥇 Achievement: **4 bronze medals at Kaggle**
+- 🥇 Achievement: **Kaggle Expert**
+
+- Honours & Awards: **Research Paper published at Indian Journal of Computer Science**
 
 - ⚡ Participation: **Participated in Data Science World Championship by Kaggle and Z by HP**
 
@@ -74,7 +76,3 @@
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
     <img alt="Windows terminal" src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?logo=windows%20terminal&logoColor=white">
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jainil-coder&show_icons=true&locale=en&theme=radical" alt="jainil-coder" /></p>
-
