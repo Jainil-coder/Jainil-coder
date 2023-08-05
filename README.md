@@ -9,7 +9,9 @@
 
 - 🥇 Achievement: **Kaggle Expert**
 
-- Honours & Awards: **Research Paper published at Indian Journal of Computer Science**
+- Honours & Awards: **BEST PERFORMER AWARD @Juppiter AI Labs**
+
+- Publications: **Research Paper published @Indian Journal of Computer Science**
 
 - ⚡ Participation: **Participated in Data Science World Championship by Kaggle and Z by HP**
 
@@ -18,9 +20,7 @@
 <p>
   <a href="mailto:jainilshah.242001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jainilshah24/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/jainil_2401_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href=https://t.me/jainilshah"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/></a>
-  <a href="https://jainil-coder.github.io/Jainil-coder/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>                                                                                                                                
+  <a href="https://jainil-coder.github.io/Jainil-coder/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>                                                                                            
 </p>
  
 <h2 align="left">🚀 Languages and Tools :</h2>
