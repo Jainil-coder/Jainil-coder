@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jainil Shah</h1>
-<h3 align="center">Data Scientist and Machine Learning Engineer with experience of 10 months of internship experience in Machine Learning and Data Science. Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence. Looking forward with more opportunities for Industrial experience.</h3>
+<h3 align="center">MS Data Science student @ Hofstra University, New York | Data Scientist and Machine Learning Engineer with experience of 10 months of internship experience in Machine Learning and Data Science | Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence | Looking forward with more opportunities for Industrial experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jainil-coder" /> </p>
 
-- 🌱 I’m currently learning: **AWS**
+- 🌱 I’m currently learning: **Gen AI**
 
 - 📫 How to reach me: **jainilshah.242001@gmail.com**
 
@@ -11,9 +11,9 @@
 
 - Honours & Awards: **BEST PERFORMER AWARD @Juppiter AI Labs**
 
-- Publications: **Research Paper published @Indian Journal of Computer Science**
+- Publications: **Research Paper published @ Indian Journal of Computer Science**
 
-- ⚡ Participation: **Participated in Data Science World Championship by Kaggle and Z by HP**
+- ⚡ Participation: **Participated in Data Science World Championship by Kaggle and Z by HP | Hackathons**
 
 <h2 align="left">📱 Connect with Me :</h2>
 
