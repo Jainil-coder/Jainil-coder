@@ -21,7 +21,7 @@
   <a href="mailto:jainilshah.242001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jainilshah24/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://jainil-coder.github.io/Jainil-coder/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>
-  <a href="https://medium.com/@jainilshah24"><img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=white"/></a> 
+  <a href="https://medium.com/@jainilshah24/"><img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=white"/></a> 
 </p>
  
 <h2 align="left">🚀 Languages and Tools :</h2>
