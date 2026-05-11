@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jainil Shah</h1>
-<h3 align="center">MS Data Science student @ Hofstra University, New York | Data Scientist and Machine Learning Engineer with experience of 10 months of internship experience in Machine Learning and Data Science | Well informed on latest Data Science advancements. Ready to thrive in demanding Digital Intelligence | Looking forward with more opportunities for Industrial experience.</h3>
+<h3 align="center">MS Data Science @ Hofstra University | Experienced Data Scientist and ML Engineer | Data Analyst | Python | SQL | AWS | Software Developer - (Data Science) | Looking forward with more opportunities for Industrial experience.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainil-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jainil-coder" /> </p>
 
-- 🌱 I’m currently learning: **Gen AI**
+- 🌱 I’m currently building: **Gen AI Applications**
 
 - 📫 How to reach me: **jainilshah.242001@gmail.com**
 
@@ -20,7 +20,8 @@
 <p>
   <a href="mailto:jainilshah.242001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/jainilshah24/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://jainil-coder.github.io/Jainil-coder/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>                                                                                            
+  <a href="https://jainil-coder.github.io/Jainil-coder/"><img src="https://img.shields.io/badge/Website-grey?logo=github&logoColor=white"/></a>
+  <a href="https://medium.com/@jainilshah24"><img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=white"/></a> 
 </p>
  
 <h2 align="left">🚀 Languages and Tools :</h2>
@@ -51,9 +52,7 @@
 
 <p>
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-white?logo=mongodb&logoColor=color">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7?logo=github&logoColor=white">
-    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white">
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?logo=Streamlit&logoColor=white">
 </p>
 
